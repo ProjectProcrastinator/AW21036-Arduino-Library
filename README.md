@@ -22,4 +22,4 @@ The library has been tested on ESP32 using the Arduino Framework (platformio.ini
 Judging from the respective datasheets, this library may also be compatible with other multi-channel LED Drivers from Awinic such as AW21024. 
 
 ## Interesting findings
-The AW21036 is per datasheet rated for a maximum of 400 kHz I2C frequency, but in practical testing I found that 1 MHz I2C Frequency works without a problem.
+The AW21036 is per datasheet rated for a maximum of 400 kHz I2C frequency, but in practical testing I found that 1 MHz I2C frequency works without a problem.
