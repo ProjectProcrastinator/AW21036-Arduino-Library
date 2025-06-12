@@ -1,4 +1,5 @@
 # Awinic AW21036 Arduino Library
+<a href="https://registry.platformio.org/libraries/project-procrastinator/AW21036 Arduino Library"><img src="https://badges.registry.platformio.org/packages/project-procrastinator/library/AW21036 Arduino Library.svg" alt="PlatformIO Registry" /></a>
 
 This library provides an interface for the AW21036 8-bit 36-LED driver from AWINIC. It supports almost all features of the AW21036, except for the pattern controller.
 
